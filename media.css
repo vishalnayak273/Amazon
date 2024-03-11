@@ -1,0 +1,280 @@
+@media screen and (min-width:320px) and (max-width:480px)
+{
+     .nav
+     {
+        display: none !important;
+     }
+     .location
+     {
+      display: none;
+     }
+     .all
+     {
+      display: none;
+     }
+    .input input
+    {
+      display: none;
+    }
+    .search-icon span 
+    {
+      display: none !important;
+    }
+    .flag
+    {
+      display: none;
+    }
+    .hello
+    {
+      display: none !important;
+    }
+    .return
+    {
+      display: none;
+    }
+nav
+{
+   display: flex;
+   justify-content: space-around;
+}
+     .app{
+        flex-direction: column;
+     }
+     /* .background
+     {
+        width: unset !important;
+        height: unset;
+        font-size: 55px !important;
+     } */
+     .lessthen
+     {
+      top: 80px !important;
+      font-size: 19px;
+     }
+     .graterthen
+     {
+      top: 80px !important;
+      font-size: 19px;
+     }
+     .offer
+     {
+      flex-direction: column;
+      /* top: 50px !important; */
+      position: unset !important;
+      padding-top: 210px;
+     }
+    .two
+    {
+      margin-top: 1050px;
+    }
+    
+    .mainbox
+    {
+      margin-bottom: 25px;
+      margin-right: 40px ;
+    }
+     .today-flex
+     {
+      flex-direction: column;
+     }
+     .discount{
+      height: 320px !important;
+      width: 60% !important;
+      margin-bottom: 15px;
+      padding: 22px !important;
+     }
+     .discount img
+     {
+      height: 77%;
+     }
+     .today
+     {
+      height: auto !important ;
+      margin-top: unset !important;
+     }
+     .today h3 
+     {
+      margin: 10px 0px 0px 86px !important;
+     }
+     .maindecor
+     {
+      flex-direction: column;
+      padding: 15px;
+     }
+     .decor
+     {
+      width: 88% !important;
+      height: auto !important;
+     }
+     .floor
+     {
+      width: unset !important;
+      height: unset !important;
+     }
+     .third {
+      width: 60% !important;
+  }
+  .supar
+  {
+   flex-direction: column;
+  }
+  .windows 
+  {
+   margin-bottom: 20px;
+  }
+  .azm-country
+  {
+   display: none;
+  }
+  .azm-bottom
+  {
+   display: none !important;
+  }
+}
+@media screen and (min-width:481px) and (max-width:1024px)
+{
+.nav
+{
+   display: none !important;
+}
+{
+   display: none !important;
+}
+/* .two
+{
+   position: unset;
+   margin-top: 143vh;
+} */
+.two
+{
+  margin-top: 1020px;
+}
+
+.location
+{
+ display: none;
+}
+.all
+{
+ display: none;
+}
+.input input
+{
+ display: none;
+}
+.search-icon span 
+{
+ display: none !important;
+}
+.flag
+{
+ display: none;
+}
+.hello
+{
+ display: none !important;
+}
+.return
+{
+ display: none;
+}
+nav
+{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.lessthen
+{
+ top: 80px !important;
+ font-size: 19px;
+}   
+.graterthen
+{
+ top: 80px !important;
+ font-size: 19px;
+}
+.offer
+{
+ flex-direction: column;
+ position: unset !important;
+ padding-top: 370px;
+ /* padding-top: 40vh; */
+ /* margin-top: 40vh; */
+}
+.mainbox {
+ width: 40% !important;
+ /* height: 86vh !important; */
+ /* padding: 10px !important; */
+ /* height: auto; */
+ /* margin-top: 20vh; */
+ margin-bottom: 25px;
+}
+.mainbox h3
+{
+ /* margin-top: 76px !important; */
+}
+.today-flex
+{
+ flex-direction: column;
+}
+.discount{
+ height: 282px !important;
+ width: 39% !important;
+ margin-bottom: 15px;
+ padding: 22px !important;
+}
+.today
+{
+ height: auto !important ;
+ margin-top: unset !important;
+}
+.today h3 
+{
+ margin: 10px 0px 0px 126px !important;
+}
+.maindecor
+{
+ flex-direction: column;
+ padding: 15px;
+}
+.decor
+{
+ width: 88% !important;
+ height: auto !important;
+}
+.floor
+{
+ width: unset !important;
+ height: unset !important;
+}
+.third {
+ width: 29% !important;
+}
+.azm-country
+  {
+   display: none;
+  }
+}
+@media screen and (min-width:1024px) and (max-width:1140px)
+{
+   .logo
+
+{
+   display: none;
+}
+.cart
+{
+   display: none;
+}
+.app
+{
+   display: none !important;
+}
+}
+@media screen and (min-width:1140px) and (max-width:1470px)
+{
+   .nav{
+      display: none !important;
+   }
+}
